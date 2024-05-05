@@ -23,7 +23,7 @@ on:
         type: string
       decrypted_youtube_url:
         description: "The direct URL to the decrypted YouTube ipa"
-        default: ""
+        default: "https://cdn.discordapp.com/attachments/254232021641986048/1236490992144875531/YouTube_19.12.3_Qn_.ipa?ex=66383379&is=6636e1f9&hm=771d05d1428d071752630d744ecaea28ae319f210b8d309b16f713e6e312488c&"
         required: true
         type: string
       bundle_id:
